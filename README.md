@@ -6,3 +6,8 @@ Open the document 'Convolution.docx' to learn about convolution intuitively.
 
 PS: Yes, it is the same concept utilized in convolutional layer of convolutional Neural Network :)
 
+The below images are attached for comparison
+
+<img src="images/lighthouse.jpg" height="450" width="450">             <img src="images/lighthouse_sketch.jpg" height="450" width="450">          
+
+
